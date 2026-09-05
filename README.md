@@ -184,7 +184,7 @@ Cyberpunk-styled terminal tool for automating Nmap decoy scans, built for effici
 
 [![Repo](https://img.shields.io/badge/Repository-Nmap__DecoyScan-FF3030?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/RaxingR/Nmap_DecoyScan)
 
-[![Automated Nmap Tool](https://github-readme-stats.vercel.app/api/pin/?username=RaxingR&repo=Nmap_DecoyScan&theme=nord&border_color=8B0000)](https://github.com/RaxingR/Nmap_DecoyScan)
+▶️ [View repository on GitHub](https://github.com/RaxingR/Nmap_DecoyScan)
 
 ---
 
@@ -200,7 +200,7 @@ A security-oriented file-sharing project focused on protected transfer and contr
 
 [![Repo](https://img.shields.io/badge/Repository-Secure--File--Sharing--System-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/RaxingR/Secure-File-Sharing-System)
 
-[![Secure File Sharing System](https://github-readme-stats.vercel.app/api/pin/?username=RaxingR&repo=Secure-File-Sharing-System&theme=nord&border_color=8B0000)](https://github.com/RaxingR/Secure-File-Sharing-System)
+▶️ [View repository on GitHub](https://github.com/RaxingR/Secure-File-Sharing-System)
 
 ---
 
@@ -217,7 +217,7 @@ A two-part steganography project spanning both information hiding and detection 
 [![Creator](https://img.shields.io/badge/Repository-Stegnography__Image__Creator-FF3030?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/RaxingR/Stegnography_Image_Creator)
 [![Detector](https://img.shields.io/badge/Repository-Stegnography__Image--Detector-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/RaxingR/Stegnography_Image-Detector)
 
-[![Steganography Detector](https://github-readme-stats.vercel.app/api/pin/?username=RaxingR&repo=Stegnography_Image-Detector&theme=nord&border_color=FF3030)](https://github.com/RaxingR/Stegnography_Image-Detector)
+▶️ [View repository on GitHub](https://github.com/RaxingR/Stegnography_Image-Detector)
 
 ---
 
@@ -278,32 +278,11 @@ An AI-powered Intrusion Detection System focused on identifying and analyzing ne
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaxingR&show_icons=true&theme=nord&border_color=8B0000&title_color=FF3030&icon_color=FF3030&text_color=c9c9c9&bg_color=0d0d0d" alt="RaxingR's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaxingR&layout=compact&theme=nord&border_color=8B0000&title_color=FF3030&text_color=c9c9c9&bg_color=0d0d0d" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaxingR&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" alt="GitHub Streak" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaxingR&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaxingR&theme=react-dark&bg_color=0D0D0D&color=FF3030&line=FF3030&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+> 📌 Live contribution graph, streak, and pinned repositories are shown automatically by GitHub directly below this README on your profile page — no extra widget needed.
 
 ---
 
