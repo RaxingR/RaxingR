@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Profile Photo" width="280" style="border-radius:8px;border:1px solid #8B0000;" />
+  <img src="./profile-banner.jpg" alt="Profile Photo" width="280" style="border-radius:8px;border:1px solid #8B0000;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF3030&background=0B0B0B00&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Cybersecurity+Analyst+%7C+Ethical+Hacker;Web+Security+Analyst+%7C+VAPT+Enthusiast;Red+Teaming+%7C+Penetration+Testing;Network+Security+%7C+Security+Research;Cybersecurity+Student+%7C+Hardware+Maintenance" alt="Cybersecurity Analyst | Ethical Hacker | Web Security Analyst | VAPT Enthusiast | Red Teaming | Penetration Testing | Network Security | Security Research | Cybersecurity Student | Hardware Maintenance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=FF3030&background=0B0B0B00&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Cybersecurity+Analyst+%7C+Ethical+Hacker;Web+Security+Analyst+%7C+VAPT+Enthusiast;Red+Teaming+%7C+Penetration+Testing;Network+Security+%7C+Security+Research;Cybersecurity+Student+%7C+Hardware+Maintenance" alt="Cybersecurity Analyst | Ethical Hacker | Web Security Analyst | VAPT Enthusiast | Red Teaming | Penetration Testing | Network Security | Security Research | Cybersecurity Student | Hardware Maintenance" />
 </p>
 
 <p align="center">
