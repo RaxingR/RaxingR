@@ -320,8 +320,17 @@ An AI-powered Intrusion Detection System focused on identifying and analyzing ne
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajatava-ghosh-265aa631/">
+  <a href="https://www.linkedin.com/in/rajatava-ghosh-265aa6316">
     <img src="https://img.shields.io/badge/LinkedIn-Rajatava%20Ghosh-FF3030?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/RaxOntto">
+    <img src="https://img.shields.io/badge/TryHackMe-RaxOntto-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d0d0d" alt="TryHackMe"/>
+  </a>
+  <a href="https://profile.hackthebox.com/profile/01a07206-a077-7323-b8fb-53095ac5a8e0">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-FF3030?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0d0d" alt="Hack The Box"/>
+  </a>
+  <a href="https://medium.com/@RaxingR">
+    <img src="https://img.shields.io/badge/Medium-@RaxingR-8B0000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d0d0d" alt="Medium"/>
   </a>
 </p>
 
