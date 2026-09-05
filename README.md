@@ -282,6 +282,11 @@ An AI-powered Intrusion Detection System focused on identifying and analyzing ne
 
 ## 📊 GitHub Activity
 
+| Year | Contributions |
+|---|---|
+| 2025 | 51 |
+| 2026 | 33 (and counting) |
+
 > 📌 Live contribution graph, streak, and pinned repositories are shown automatically by GitHub directly below this README on your profile page — no extra widget needed.
 
 ---
