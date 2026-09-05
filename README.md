@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/profile-banner.png" alt="Rajatava Ghosh" width="320" style="border-radius:8px;border:1px solid #8B0000;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF3030&background=0B0B0B00&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Cybersecurity+Analyst+%7C+Ethical+Hacker;Web+Security+Analyst+%7C+VAPT+Enthusiast;Red+Teaming+%7C+Penetration+Testing;Network+Security+%7C+Security+Research;Cybersecurity+Student+%7C+Hardware+Maintenance" alt="Typing SVG" />
 </p>
 
